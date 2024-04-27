@@ -1,12 +1,12 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "open letter to the NixOS foundation"
+title = "open letter to the open letter to the NixOS foundation"
 theme = "hugo-journal"
 enableGitInfo = false
 
 
 [Author]
-	name = "Kate Temkin"
+	name = "Nick Cao"
 
 [Params]
 	mainSections = [""]
