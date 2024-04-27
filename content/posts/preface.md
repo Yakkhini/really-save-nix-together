@@ -4,7 +4,7 @@ date: 2024-04-21T09:48:16-06:00
 draft: false
 ---
 
-# the open letter to the NixOS foundation (https://save-nix-together.org/) is corrosive to the Nix project
+# The open letter to the NixOS foundation (https://save-nix-together.org/) is corrosive to the Nix project
 
 > **Editor's note**:
 > This letter is the work of a number of **not** anonymous contributors.
